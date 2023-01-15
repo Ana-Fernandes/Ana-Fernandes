@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ana-Fernandes
-- 👀 I’m interested in Java, Python, html, css
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JavaScript, Bootstrap,Java, Python, HTML, CSS
+- 🌱 I’m currently learning Análise e desenvolvimento de sistemas.
+- 💞️ I’m looking to collaborate on Front-end
 - 📫 How to reach me anafeana7@gmail.com
 
 <!---
