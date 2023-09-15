@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ana-Fernandes
 - 👀 I’m interested in Flutter,Dart,JavaScript, Bootstrap,Java, Python, HTML, CSS
 - 🌱 I’m currently learning Análise e desenvolvimento de sistemas.
-- 💞️ I’m looking to collaborate on Front-end
+- 💞️ I’m looking to collaborate on Front-end,Dev Mobile FullStack
 - 📫 How to reach me anafeana7@gmail.com
 
 <!---
